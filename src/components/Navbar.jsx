@@ -50,7 +50,8 @@ const navItems = [
     </span>
 
     </a>
-
+      {/* <ThemeToggle/> */}
+ 
 
     {/* Desktop  */}
 
@@ -61,6 +62,15 @@ const navItems = [
                 >{item.name}</a>
             ))}
         </div>
+
+
+<div className="absolute right-14 md:static md:ml-4 z-50">
+    <ThemeToggle />
+  </div>
+
+
+
+
 
             {/* mobile  */}
             <button onClick={()=>setIsMenuOpen((prev)=>!prev)}
@@ -88,7 +98,7 @@ const navItems = [
             ))}
         </div> 
             </div>
-            <ThemeToggle/>
+            {/* <ThemeToggle/> */}
       </div>
     </nav>
   )
