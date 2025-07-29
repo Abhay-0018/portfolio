@@ -10,20 +10,20 @@ const Skills = () => {
     { name: "TypeScript", level: 95, category: "frontend" },
     { name: "React", level: 95, category: "frontend" },
     { name: "Tailwind CSS", level: 95, category: "frontend" },
-    { name: "Next.js", level: 95, category: "frontend" },
+    { name: "Next.js", level: 65, category: "frontend" },
 
     //Backend
     { name: "Node.js", level: 95, category: "backend" },
-    { name: "Express", level: 95, category: "backend" },
-    { name: "MongoDB", level: 95, category: "backend" },
-    { name: "PostgreSQL", level: 95, category: "backend" },
-    { name: "GraphQL", level: 5, category: "backend" },
+    // { name: "Express", level: 95, category: "backend" },
+    // { name: "MongoDB", level: 95, category: "backend" },
+    // { name: "PostgreSQL", level: 95, category: "backend" },
+    // { name: "GraphQL", level: 5, category: "backend" },
 
     //Tools
 
-    { name: "Git/GitHub", level: 95, category: "tools" },
-    { name: "Figma", level: 95, category: "tools" },
-    { name: "Vs Code", level: 95, category: "tools" },
+    { name: "Git/GitHub", level: 70, category: "tools" },
+    { name: "Figma", level: 79, category: "tools" },
+    { name: "Vs Code", level: 100, category: "tools" },
     { name: "Npm/yarn", level: 95, category: "tools" },
   ];
 

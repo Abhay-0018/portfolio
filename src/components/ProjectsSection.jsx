@@ -5,10 +5,10 @@ const ProjectsSection = () => {
   const projects = [
     {
       id: 1,
-      title: "E-Commerce-site",
+      title: "Whiskey shoe Palace",
       description:
-        " A beautiful site for the desired products using the react and tailwind",
-      image: "/projects/project.png",
+        " A beautiful site for the desired products using the react and tailwind and fetching data from random APIs.",
+      image: "/projects/E-commerce.png",
       tags: ["React ", "tailwind", "JavaScript"],
       demoUrl: "#",
       gitHub: "https://github.com/Abhay-0018",
@@ -16,20 +16,20 @@ const ProjectsSection = () => {
 
     {
       id: 2,
-      title: "E-Commerce-site",
+      title: "Filteration",
       description:
-        " A beautiful site for the desired products using the react and tailwind",
-      image: "/projects/unstop.png",
+        " A responsive site to check tasks progress as admin and can mark them as Complete | In progress using React , Tailwind and JavaScript with APIs",
+      image: "/projects/Filteration.png",
       tags: ["React ", "tailwind", "JavaScript"],
       demoUrl: "#",
       gitHub: "https://github.com/Abhay-0018",
     },
     {
       id: 3,
-      title: "E-Commerce-site",
+      title: "React store",
       description:
-        " A beautiful site for the desired products using the react and tailwind",
-      image: "/projects/brave.png",
+        " A beautiful site for women to find their cosmetics and accessories as they desired. Made this with Raect, Tailwind and JavaScript, Axios ( for fetching data)",
+      image: "/projects/React-store.png",
       tags: ["React ", "tailwind", "JavaScript"],
       demoUrl: "#",
       gitHub: "https://github.com/Abhay-0018",
