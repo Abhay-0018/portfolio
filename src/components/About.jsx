@@ -39,7 +39,7 @@ const About = () => {
               </a>
       {/* Resume link  */}
               <a
-                href="https://drive.google.com/file/d/1b87fvsJ_IcsERKQnwh86LzqQsgnBLkBA/view"
+                href="https://drive.google.com/file/d/1b87fvsJ_IcsERKQnwh86LzqQsgnBLkBA/view" target="_blank"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
