@@ -18,9 +18,9 @@ const About = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              With over 3 years of experience in the web development, I
+              With over 1 years of experience in the web development, I
               specialize in creating responsive, accessible and perfomant web
-              applications using moder technologies.
+              applications using modern technologies.
             </p>
 
             <p className="text-muted-foreground">
@@ -37,9 +37,9 @@ const About = () => {
                 {" "}
                 Get In Touch
               </a>
-
+      {/* Resume link  */}
               <a
-                href=""
+                href="https://drive.google.com/file/d/1b87fvsJ_IcsERKQnwh86LzqQsgnBLkBA/view"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
